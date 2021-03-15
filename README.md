@@ -37,7 +37,7 @@
 - Killer Wireless-AC 1550
 - NVIDIA GeForce GTX 1660 Ti | 6 GB GDDR6
 
-- ROCCAT VULVAN 
+- ROCCAT VULCAN 
 - ROCCAT KONE
 - Koolertron - programmable keypad
 

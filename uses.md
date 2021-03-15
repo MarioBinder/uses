@@ -1,11 +1,15 @@
 # Uses 
 
-## Develoment / Editor
+## Develoment
 - vscode
 	- panda theme
 	- c/c++ Extension pack
 - visual studio 2019
 	- resharper
+
+## Editors
+- sublime text 3
+- obsidian
 
 ## Apps & Tools
 - Miro

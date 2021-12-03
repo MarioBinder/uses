@@ -6,6 +6,7 @@
 	- c/c++ Extension pack
 - visual studio 2019
 	- resharper
+- visual studio 2022 preview
 
 ## Editors
 - sublime text 3
